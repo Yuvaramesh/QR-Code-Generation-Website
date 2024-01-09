@@ -28,3 +28,8 @@ Include a link or screenshot of your website in action.
 
    ```bash
    git clone https://github.com/Yuvaramesh/QR-Code-Generation-Website.git
+## Usage
+- Open the website in your browser.
+- Enter your secret message.
+- Click the "Generate QR Code" button.
+- Scan the generated QR code with a QR code scanner to reveal the hidden message.
