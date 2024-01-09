@@ -1,6 +1,6 @@
 # QR-Code-Generation-Website
-#
-# QR Code Secret Message Generator
+
+
 
 A simple web application for generating QR codes to hide secret messages. Users can scan the generated QR code to reveal the hidden message.
 
