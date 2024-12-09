@@ -13,7 +13,7 @@ A simple web application for generating QR codes to hide secret messages. Users 
 - [License](#license)
 - [Contact](#contact)
 
-## Demo
+##Demo
 
 Include a link or screenshot of your website in action.
 
